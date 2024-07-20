@@ -7,6 +7,12 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <div id="error">
+
+    </div>
+    <div id="error1">
+      
+    </div>
     <App />
   </React.StrictMode>
 );
