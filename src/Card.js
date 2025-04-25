@@ -37,7 +37,7 @@ export const Card = () => (
         
       </div>
       <div className="cardInside">
-        <h3 className="back">HAPPY BIRTHDAY Snigdha!</h3>
+        <h3 className="back">HAPPY BIRTHDAY Mummy!</h3>
         <p>Dear Friend,</p>
         <p>
           Happy birthday!! I hope your day is filled with lots of love and
